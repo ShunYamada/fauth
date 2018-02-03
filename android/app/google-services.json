@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "955734543728",
+    "firebase_url": "https://fauth-2aaaa.firebaseio.com",
+    "project_id": "fauth-2aaaa",
+    "storage_bucket": "fauth-2aaaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955734543728:android:678709ac15672219",
+        "android_client_info": {
+          "package_name": "com.fauth.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955734543728-5g05hr6bm2k2tdl7751b5ql088qk4f4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEaKIQlIBF5YrQ94TPvIWe6Hz5tljSLrw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>955734543728-c00114dp9h0p075ff4tcoopmgfbrc9kf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.955734543728-c00114dp9h0p075ff4tcoopmgfbrc9kf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBBsN5XWV4Lcb7y4rCTRWlM40ZFMKu6lxg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>955734543728</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fauth.ios</string>
+	<key>PROJECT_ID</key>
+	<string>fauth-2aaaa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fauth-2aaaa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:955734543728:ios:9537ef0ade99038f</string>
+	<key>DATABASE_URL</key>
+	<string>https://fauth-2aaaa.firebaseio.com</string>
+</dict>
+</plist>
