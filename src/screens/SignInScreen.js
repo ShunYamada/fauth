@@ -31,6 +31,7 @@ const Auth = (props) => {
     .then((currentUser) => {
       if (currentUser) {
         console.log(currentUser);
+        this.props.navigation.navigate('Main');
       }
     })
     .catch((error) => {
